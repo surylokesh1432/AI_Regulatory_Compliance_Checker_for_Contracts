@@ -1,0 +1,78 @@
+---
+
+🧾 CLAUSE SUMMARY:
+- **Intellectual Property**: The Client retains ownership of software, code, and documentation created under the Agreement.
+- **Data Protection**: The Service Provider complies with GDPR when handling EU citizens' personal data.
+- **Liability**: The Service Provider's total liability is capped at the total fees paid in the preceding three months.
+- **Termination**: Either party can terminate with 30 days' written notice or immediately in case of a breach.
+- **Governing Law and Dispute Resolution**: The Agreement is governed by Indian law, and disputes are resolved through arbitration in Bengaluru.
+- **Confidentiality**: Both parties agree to maintain confidentiality regarding proprietary information, trade secrets, and client data.
+
+⚠️ MISSING OR WEAK CLAUSES:
+- **Data Protection**: Although the Service Provider complies with GDPR, the contract lacks specific details on data protection, such as data storage, transfer, and breach notification procedures.
+- **Liability**: The liability cap is based on fees paid in the preceding three months, which may not accurately reflect the Service Provider's potential losses or damages.
+- **Confidentiality**: The contract does not specify the duration of confidentiality obligations or the consequences of breaching confidentiality.
+- **Dispute Resolution**: The contract relies solely on arbitration, which may not be suitable for all disputes, and does not specify the arbitration process or the appointment of arbitrators.
+- **Intellectual Property**: The contract does not specify how intellectual property rights are transferred or assigned.
+- **Payment Terms**: The contract lacks a clear mechanism for handling late payments, interest, or penalties.
+- **Scope of Services**: The contract does not specify the scope of services, milestones, or deliverables.
+- **Warranties and Representations**: The contract does not include any warranties or representations from the Service Provider regarding the quality, performance, or fitness for purpose of the services.
+
+✅ RECTIFIED CONTRACT VERSION:
+
+**ARTICLE 1: SCOPE OF SERVICES**
+
+1.1 The Service Provider agrees to provide software development and maintenance services ("Services") as described in Schedule A.
+1.2 The Services shall be performed in accordance with the agreed-upon scope, milestones, and deliverables.
+
+**ARTICLE 2: PAYMENT TERMS**
+
+2.1 The Client shall pay the Service Provider INR 5,00,000 per month.
+2.2 Payments shall be made within 15 days of receipt of an invoice.
+2.3 Late payments shall incur a penalty of 2% per annum on the outstanding amount.
+2.4 The Service Provider reserves the right to suspend services in case of non-payment.
+
+**ARTICLE 3: INTELLECTUAL PROPERTY**
+
+3.1 All software, code, and documentation created under this Agreement shall be the property of the Client.
+3.2 The Service Provider retains no ownership rights.
+3.3 The Client grants the Service Provider a non-exclusive license to use the intellectual property for the purpose of providing the Services.
+
+**ARTICLE 4: CONFIDENTIALITY**
+
+4.1 Both parties agree to maintain confidentiality regarding proprietary information, trade secrets, and client data.
+4.2 Confidential information shall not be disclosed to any third party without prior written consent.
+4.3 The confidentiality obligation shall continue for a period of 5 years from the date of termination of this Agreement.
+
+**ARTICLE 5: DATA PROTECTION**
+
+5.1 The Service Provider shall comply with applicable data protection laws, including the GDPR, when handling personal data of EU citizens.
+5.2 The Service Provider shall implement reasonable security measures to protect personal data, including encryption, access controls, and data backup procedures.
+5.3 In case of a data breach, the Service Provider shall notify the Client within 24 hours and provide a detailed report on the breach.
+
+**ARTICLE 6: LIABILITY**
+
+6.1 The Service Provider's total liability under this Agreement shall not exceed the total fees paid in the preceding 12 months.
+6.2 The Service Provider shall not be liable for any indirect, consequential, or punitive damages.
+
+**ARTICLE 7: TERMINATION**
+
+7.1 Either party may terminate this Agreement with 30 days' written notice.
+7.2 In the event of a breach, the non-breaching party may terminate immediately.
+
+**ARTICLE 8: GOVERNING LAW AND DISPUTE RESOLUTION**
+
+8.1 This Agreement shall be governed by the laws of India.
+8.2 Any disputes shall be resolved through arbitration in Bengaluru, under the Arbitration and Conciliation Act, 1996.
+8.3 The arbitration process shall be conducted in accordance with the rules of the Indian Council of Arbitration.
+8.4 The parties shall appoint one arbitrator each, and the third arbitrator shall be appointed by the Indian Council of Arbitration.
+
+**ARTICLE 9: WARRANTIES AND REPRESENTATIONS**
+
+9.1 The Service Provider warrants that the Services shall be performed in a professional and workmanlike manner.
+9.2 The Service Provider represents that the Services shall be free from defects in materials and workmanship.
+
+**ARTICLE 10: ENTIRE AGREEMENT**
+
+10.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements.
+10.2 This Agreement may not be amended or modified except in writing signed by both parties.

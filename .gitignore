@@ -1,0 +1,71 @@
+# ------------------------------
+# Python build and cache files
+# ------------------------------
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# ------------------------------
+# VS Code files
+# ------------------------------
+.vscode/
+.code-workspace
+
+# ------------------------------
+# Environment and config files
+# ------------------------------
+*.env
+*.ini
+*.cfg
+*.toml
+*.json
+
+# ------------------------------
+# Logs and temp files
+# ------------------------------
+*.log
+*.pot
+*.pyproj
+*.sublime-project
+*.sublime-workspace
+tmp/
+temp/
+*.bak
+*.swp
+
+# ------------------------------
+# Jupyter / IPython
+# ------------------------------
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# ------------------------------
+# Mac / Windows system files
+# ------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini

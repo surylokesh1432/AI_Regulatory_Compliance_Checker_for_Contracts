@@ -1,0 +1,38 @@
+SERVICE AGREEMENT
+
+This Service Agreement (“Agreement”) is made on November 9, 2025, between:
+
+1. AlphaTech Solutions Pvt. Ltd., a company incorporated under the laws of India, having its registered office at Bengaluru (“Service Provider”); and
+2. Nova Enterprises LLP, having its principal office at Hyderabad (“Client”).
+
+1. SCOPE OF SERVICES
+The Service Provider agrees to provide software development and maintenance services (“Services”) as described in Schedule A.
+
+2. PAYMENT TERMS
+The Client shall pay the Service Provider INR 5,00,000 per month. Payments shall be made within 15 days of receipt of an invoice.
+
+3. CONFIDENTIALITY
+Both parties agree to maintain confidentiality regarding proprietary information, trade secrets, and client data. Confidential information shall not be disclosed to any third party without prior written consent.
+
+4. INTELLECTUAL PROPERTY
+All software, code, and documentation created under this Agreement shall be the property of the Client. The Service Provider retains no ownership rights.
+
+5. DATA PROTECTION
+The Service Provider shall comply with applicable data protection laws, including the GDPR, when handling personal data of EU citizens.
+
+6. LIABILITY
+The Service Provider’s total liability under this Agreement shall not exceed the total fees paid in the preceding three months.
+
+7. TERMINATION
+Either party may terminate this Agreement with 30 days’ written notice. In the event of a breach, the non-breaching party may terminate immediately.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of India. Any disputes shall be resolved by arbitration in Bengaluru, under the Arbitration and Conciliation Act, 1996.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+___________________________
+Authorized Signatory (AlphaTech Solutions Pvt. Ltd.)
+
+___________________________
+Authorized Signatory (Nova Enterprises LLP)
